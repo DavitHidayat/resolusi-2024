@@ -2,6 +2,7 @@
 Resolusi Davit Hidayat 2024:
 - Advanced Python
 - Advanced on MySQL
+- Advanced Lookerstudio
 - Master Data Analyst and Visualization on Excel
 - Advanced on VBA Excel
 - Fluent in English
